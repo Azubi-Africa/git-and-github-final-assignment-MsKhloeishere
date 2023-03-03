@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |  - Week 9 EDA on NYC    |-EDA on NYC Tickets       | https://https://github.com/MsKhloeishere/my-github-test.git   |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
