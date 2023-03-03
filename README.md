@@ -21,8 +21,8 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  - Week 9 EDA on NYC    |-EDA on NYC Tickets       | https://https://github.com/MsKhloeishere/my-github-test.git   |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 2 |  - Week 11 ML         |  -Stochastic Gradient Descent          | https://https://github.com/MsKhloeishere/Stochastic-Gradient-Descent-.git      |
+| 3 |  - Week 12 ML       |  -  SGD Classifier       | https://https://github.com/MsKhloeishere/SGD-Classifier.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
